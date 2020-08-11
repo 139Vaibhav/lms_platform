@@ -16,8 +16,11 @@ function App() {
         <div id="user_copy_18">
         <img id="mask" src={require("./Dashboard/Mask.png")}></img>
         <img id="user_copy_18_path" src={require("./Dashboard/user_copy_18.png")}></img>
-        </div>
-        
+        </div>        
+      </div>
+
+      <div id="inner_browser_43_path">
+        <div id="inner_browser_43_path_1"></div>
       </div>
     </div>
   );

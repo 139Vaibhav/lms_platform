@@ -141,3 +141,21 @@ code {
   top: 0;
   left: 0;
 }
+#inner_browser_43_path{
+  position: absolute;
+  left: 10.76%;
+  right: 2.99%;
+  top: 31.84%;
+  bottom: 2.34%;
+
+  background: #F6F8F9;
+  /* opacity: 0.3; */
+
+  width: 1242px;
+  height: 674px;
+}
+#inner_browser_43_path_1{
+  background: #89969F;
+  width: 223px;
+  height: 674px;
+}
