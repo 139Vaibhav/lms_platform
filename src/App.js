@@ -14,8 +14,8 @@ function App() {
         </div>
         
         <div id="user_copy_18">
+        <img id="mask" src={require("./Dashboard/Mask.png")}></img>
         <img id="user_copy_18_path" src={require("./Dashboard/user_copy_18.png")}></img>
-          <img id="mask" src={require("./Dashboard/Mask.png")}></img>
         </div>
         
       </div>

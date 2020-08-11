@@ -121,26 +121,23 @@ code {
 }
 #user_copy_18{
   position: absolute;
-  left: 1.39%;
+  left: 15.39%;
   right: 94.1%;
   top: 91.31%;
   bottom: 2.34%;
+
+  width: 65px;
+  height: 65px;
 }
 #user_copy_18_path{
   position: absolute;
-  left: 2.81%;
-  right: 95.48%;
-  top: 93.85%;
-  bottom: 3.74%;
-
-  background: #89969F;
+  top: 26px;
+  right: 18.2px;
+  bottom: 2.24px;
+  left: 18.2px;
 }
 #mask{
-  position: absolute;
-  left: 1.39%;
-  right: 94.1%;
-  top: 91.31%;
-  bottom: 2.34%;
-
-  background: #B8C5D0;
+  position: relative;
+  top: 0;
+  left: 0;
 }
