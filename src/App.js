@@ -14,6 +14,8 @@ import { amber, blueGrey, red } from "@material-ui/core/colors";
 import HomePage from "./screens/Home";
 import Navigation from "./components/Navigation";
 import Basic_Information from "./components/Basic_Information";
+import Personal_Details from "./components/Personal_Details";
+import Change_Password from "./components/Change_Password";
 
 const theme = createMuiTheme({
   palette: {
